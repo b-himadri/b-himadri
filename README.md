@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Himadri</h1>
+<h1 align="center">Hello, I'm Himadri</h1>
 <h3 align="center">I'm a full-stack web developer who loves diving into all layers of an application.</h3>
 
 - 🔭 I’m currently working on [Melt & Whirl](https://bakery-frontend-app-eosin.vercel.app)
