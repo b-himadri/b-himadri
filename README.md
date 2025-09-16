@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **baradhimadri264@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BPaEc9_CkqZXcyerhRjN1xl4GiM8eTce/view?usp=share_link](https://drive.google.com/file/d/1BPaEc9_CkqZXcyerhRjN1xl4GiM8eTce/view?usp=share_link)
+- 📄 Know about my experiences HIMADRI_BARAD_RESUME (https://drive.google.com/file/d/1n99pRnqtuHbS617keNmERbkolnHJRjjs/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
